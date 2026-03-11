@@ -10719,7 +10719,8 @@
     "uchen": "གྲུ་བཞི་ནར་མོ",
     "english": "Rectangular",
     "sound": "Tib-1815.mp3",
-    "img": "908.png"
+    "img": "908.png",
+    "disabled": "audio issue"
   },
   {
     "uchen": "བོད་ཀྱི་གླེགས་བམ་ཚང་མ་གྲུ་བཞི་ནར་མོ་རེད།",
@@ -12255,7 +12256,8 @@
     "id": "card_0075",
     "uchen": "ཁོང་ཨེམ་ཆི་རེད།",
     "english": "She is (a) doctor.",
-    "sound": "TI-75.mp3"
+    "sound": "TI-75.mp3",
+    "disabled": "audio issue"
   },
   {
     "id": "card_0076",
@@ -13395,13 +13397,15 @@
     "id": "card_0265",
     "uchen": "ལགས། འདིར་ཡོག་མ་རེད།",
     "english": "No, (he) is not here.",
-    "sound": "TI-265.mp3"
+    "sound": "TI-265.mp3",
+    "disabled": "audio issue"
   },
   {
     "id": "card_0266",
     "uchen": "ཁོས་ང་ཁ་སང་ཉེས་བྱུང་།",
     "english": "He beat me yesterday.",
-    "sound": "TI-266.mp3"
+    "sound": "TI-266.mp3",
+    "disabled": "audio issue"
   },
   {
     "id": "card_0267",
@@ -14199,7 +14203,8 @@
     "id": "card_0399",
     "uchen": "ལྡེ་མིག་གནང་རོགས་གནང་།",
     "english": "Please give me the keys.",
-    "sound": "TI-399.mp3"
+    "sound": "TI-399.mp3",
+    "disabled": "audio issue"
   },
   {
     "id": "card_0400",
@@ -14955,7 +14960,8 @@
     "id": "card_0525",
     "uchen": "ཁོང་ངའི་རྩ་ལ་ཕེབས་བྱུང་།",
     "english": "He's been (lit. come) to my place.",
-    "sound": "TI-525.mp3"
+    "sound": "TI-525.mp3",
+    "disabled": "audio issue"
   },
   {
     "id": "card_0526",
@@ -15549,7 +15555,8 @@
     "id": "card_0624",
     "uchen": "དེ་དུས་ཁོང་ལྷ་སར་ཡོད་རེད།",
     "english": "At that time he was in Lhasa. (lit. is in Lhasa)",
-    "sound": "TI-624.mp3"
+    "sound": "TI-624.mp3",
+    "disabled": "audio issue"
   },
   {
     "id": "card_0625",
@@ -15561,7 +15568,8 @@
     "id": "card_0626",
     "uchen": "ང་ནི་ཁྱོན་ནས་འགྲོ་ཡི་མིན།",
     "english": "As far as I am concerned, I am definitely not going.",
-    "sound": "TI-626.mp3"
+    "sound": "TI-626.mp3",
+    "disabled": "audio issue"
   },
   {
     "id": "card_0627",
@@ -17493,7 +17501,8 @@
     "id": "card_0948",
     "uchen": "ཁྱེད་རང་འདིར་ག་རེ་གནང་གི་ཡོད།",
     "english": "What are you doing here?",
-    "sound": "TI-948.mp3"
+    "sound": "TI-948.mp3",
+    "disabled": "audio issue"
   },
   {
     "id": "card_0949",
@@ -19065,7 +19074,8 @@
     "id": "card_1210",
     "uchen": "ཁོང་གིས་ང་མ་མཐོང་ཁག་བྱེད་ཀྱི་འདུག",
     "english": "He's pretending he hasn't seen me.",
-    "sound": "TI-1210.mp3"
+    "sound": "TI-1210.mp3",
+    "disabled": "audio issue"
   },
   {
     "id": "card_1211",
@@ -19983,7 +19993,8 @@
     "id": "card_1363",
     "uchen": "ཁོང་གིས་བྲིས་པའི་དེབ་དེ་ག་འདྲས་འདུག",
     "english": "What is the book which he wrote like?",
-    "sound": "TI-1363.mp3"
+    "sound": "TI-1363.mp3",
+    "disabled": "audio issue"
   },
   {
     "id": "card_1364",
@@ -20781,7 +20792,8 @@
     "id": "card_1496",
     "uchen": "ང་འགྲོ་ཡག་མིན་པས་ནི། འགྲོ་དགོས་བྱུང་།",
     "english": "Although I did not want to go, I had to.",
-    "sound": "TI-1496.mp3"
+    "sound": "TI-1496.mp3",
+    "disabled": "audio issue"
   },
   {
     "id": "card_1497",
@@ -20829,7 +20841,8 @@
     "id": "card_1504",
     "uchen": "ང་འགྲོ་ཡག་མིན་པས་ནི། འགྲོ་དགོས་བྱུང་།",
     "english": "Although I did not want to go, I had to go.",
-    "sound": "TI-1504.mp3"
+    "sound": "TI-1504.mp3",
+    "disabled": "audio issue"
   },
   {
     "id": "card_1505",
@@ -21249,7 +21262,8 @@
     "id": "card_1574",
     "uchen": "ཁོང་ཚོ་ཕེབས་ཀྱི་ཡོད་མེད་མཁྱེན་བྱུང་ངས།",
     "english": "Do (you) know whether they are coming or not?",
-    "sound": "TI-1574.mp3"
+    "sound": "TI-1574.mp3",
+    "disabled": "audio issue"
   },
   {
     "id": "card_1575",
